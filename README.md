@@ -1,5 +1,5 @@
 # Multidimensional-Scaling-of-European_Cities
-This project explores the spatial relationships between twenty European cities using classical manual Multidimensional Scaling (MDS), MDS from scikit-learn, and compares the results with Principal Component Analysis (PCA). It contains the visualizations and analysis results in the notebook.
+This project explores the spatial relationships between twenty European cities using classical manual Multidimensional Scaling (MDS), MDS from scikit-learn, and compares the results with Principal Component Analysis. It contains the visualizations and analysis results.
 
 ## Contents
 - **Multidimensional scaling of European Cities.ipynb:** The Jupyter notebook containing the project.
@@ -23,7 +23,7 @@ The project is developed and executed in a Google Colab environment.
 ## Note
 - The project discusses the spatial relationships between cities using dimensionality reduction techniques.
 - MDS may involve manual rotation or mirroring to achieve desired visualizations.
-- PCA might result in rotated or mirrored visualizations depending on the orientation of principal components.
+- PCA might also result in rotated or mirrored visualizations depending on the orientation of principal components.
 
 - ## Acknowledgements
 - The distances between cities were obtained from https://www.distancecalculator.net/
